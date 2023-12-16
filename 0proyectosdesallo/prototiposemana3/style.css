@@ -42,7 +42,11 @@ main {
     color: #333;
     padding: 100px;
 }
-
+div{
+    display: flex;
+    flex-direction:column;
+    
+}
 main img {
     width: 100px;
     height: 80px;
