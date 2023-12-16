@@ -47,6 +47,9 @@ div{
     flex-direction:column;
     
 }
+div input{
+  width:160px;
+}
 main img {
     width: 100px;
     height: 80px;
